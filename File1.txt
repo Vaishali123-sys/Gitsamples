@@ -1,2 +1,3 @@
 Created Fie1 for Userstory1
 Added some new function from UserStory2
+Making some changes for command
