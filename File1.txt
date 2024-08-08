@@ -2,3 +2,4 @@ Created Fie1 for Userstory1
 Added some new function from UserStory2
 Making some changes for command
 Modified UserStory3
+Modified in master before merge B-CR7
